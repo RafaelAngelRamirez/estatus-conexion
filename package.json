@@ -6,6 +6,7 @@
     "@angular/core": "^12.0.1"
   },
   "dependencies": {
+    "np": "^7.5.0",
     "tslib": "^2.0.0"
   },
   "description": "Estatus de conexion sencilla para angular.",
