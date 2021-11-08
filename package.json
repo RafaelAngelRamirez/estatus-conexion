@@ -27,19 +27,19 @@
     "offline"
   ],
   "bugs": {
-    "url": "https://github.com/RafaelAngelRamirez/modal/issues"
+    "url": "https://github.com/RafaelAngelRamirez/estatus-conexion/issues"
   },
-  "homepage": "https://github.com/RafaelAngelRamirez/modal#readme",
+  "homepage": "https://github.com/RafaelAngelRamirez/estatus-conexion#readme",
   "publishConfig": {},
   "np": {
     "access": "public",
     "contents": "./dist"
   },
-  "module": "./dist/fesm2015/codice-progressio-modal.js",
-  "es2015": "./dist/fesm2015/codice-progressio-modal.js",
-  "esm2015": "./dist/esm2015/codice-progressio-modal.js",
-  "fesm2015": "./dist/fesm2015/codice-progressio-modal.js",
-  "typings": "./dist/codice-progressio-modal.d.ts",
-  "metadata": "./dist/codice-progressio-modal.metadata.json",
+  "module": "./dist/fesm2015/codice-progressio-estatus-conexion.js",
+  "es2015": "./dist/fesm2015/codice-progressio-estatus-conexion.js",
+  "esm2015": "./dist/esm2015/codice-progressio-estatus-conexion.js",
+  "fesm2015": "./dist/fesm2015/codice-progressio-estatus-conexion.js",
+  "typings": "./dist/codice-progressio-estatus-conexion.d.ts",
+  "metadata": "./dist/codice-progressio-estatus-conexion.metadata.json",
   "sideEffects": false
 }
