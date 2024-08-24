@@ -2,8 +2,8 @@
   "name": "@codice-progressio/estatus-conexion",
   "version": "1.0.2",
   "peerDependencies": {
-    "@angular/common": "^14.2.2",
-    "@angular/core": "^14.2.2"
+    "@angular/common": "^16.0.5",
+    "@angular/core": "^16.0.5"
   },
   "dependencies": {
     "tslib": "^2.0.0"
@@ -13,7 +13,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\"",
     "postversion": "rm -r dist ; ng build estatus-conexion --configuration production  && mkdir dist && cp -r ../../dist/estatus-conexion/* dist/",
-    "publicar": "np --contents=./dist"
+    "publicar": "npx np --contents=./dist"
   },
   "author": "Rafael Ramirez",
   "license": "ISC",
